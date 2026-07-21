@@ -16,6 +16,7 @@ Cybersecurity professional with hands-on experience in Linux Security, Web Appli
  ![HackTheBox](https://img.shields.io/badge/HackTheBox-green?style=flat&logo=hackthebox) ![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=flat&logo=tryhackme)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=om-root&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=om-root&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=om-root&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=om-root&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=om-root&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=om-root&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
