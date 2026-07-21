@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cybersecurity Analyst with hands-on experience in Linux Security, TPM/UEFI Security, Vulnerability Assessment,<br>Security Engineering, and Enterprise Security Operations. Skilled in Linux hardening, firewall management, TPM key<br>management, secure boot technologies, network security analysis, and secure application development. Experienced<br>with Burp Suite, Nmap, Wireshark, Metasploit, Kali Linux, and vulnerability assessment methodologies.
+Cybersecurity professional with hands-on experience in Linux Security, Web Application Security, Active Directory, Network Security, and Vulnerability Assessment. Passionate about offensive security, CTFs, and continuous learning through practical labs and real-world simulations.
 
 
 ## 🌐 Socials:
