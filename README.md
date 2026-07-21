@@ -13,6 +13,6 @@ Cybersecurity Analyst with hands-on experience in Linux Security, TPM/UEFI Secur
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=om-root&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrwhitecap05&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=om-root&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
